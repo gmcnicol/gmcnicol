@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gmcnicol
 - 👀 I’m interested in software and music
 - 🌱 I’m currently learning that it ain't always smooth sailing
-- 💞️ I’m looking to collaborate on my bitcoin thing
 - 📫 How to reach me - here. 
 
 <!---
